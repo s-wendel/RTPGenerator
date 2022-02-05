@@ -1,0 +1,10 @@
+name: RTPGenerator
+version: ${project.version}
+main: com.shwendel.rtpgenerator.rtpgenerator.RTPGenerator
+api-version: 1.18
+authors: [ shwendel ]
+description: Randomly teleport across any world!
+website: shwendel.com
+commands:
+  rtp:
+    description: Randomly teleport anywhere in the world

@@ -1,0 +1,12 @@
+world: 'world'
+maxX: 10000
+minX: -10000
+maxZ: 10000
+minZ: -10000
+cooldown: 60 # In seconds
+permission: 'rtp'
+messages:
+  non_player: '&2[RTP] &aYou cannot use this command!'
+  teleported: '&2[RTP] &aYou have been randomly teleported!'
+  cooldown: '&2[RTP] &aYou cannot teleport yet!'
+  permission: '&2[RTP] &aYou do not have enough permission!'
